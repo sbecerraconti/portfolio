@@ -3,7 +3,7 @@ body {
   font-family: 'Lato', sans-serif;
 }
 .col-3 {
-  background-color: yellow;
+  background-color: white;
   height: 88px;
   text-align: center;
 }
@@ -13,7 +13,7 @@ body {
 
 }
 .col-9 {
-  background-color: red;
+  background-color: white;
   text-align: right;
   height: 88px;
 }
