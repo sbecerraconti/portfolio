@@ -1,0 +1,208 @@
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+.col-3 {
+  background-color: yellow;
+  height: 88px;
+  text-align: center;
+}
+.logo-header {
+  vertical-align: middle;
+  width: 80%;
+
+}
+.col-9 {
+  background-color: red;
+  text-align: right;
+  height: 88px;
+}
+.index {
+  padding: 30px 30px 0 0;
+  margin: 0;
+}
+.header {
+  height: 88px;
+}
+.heading{
+  background-image: url("../images/back.png")!important;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position: cover;
+
+}
+.arrow {
+  width: 80px;
+  padding-bottom: 40px;
+  padding-top: 100px;
+}
+.personal-description {
+  padding-top: 40px;
+  font-weight: 100;
+  font-size: 30px;
+  color: #373F3F;
+  letter-spacing: 1;
+  line-height: 40px;
+  font-family: 'Lato', sans-serif;
+}
+.ux-ui {
+  padding-top: 60px;
+  font-weight: 900;
+  font-size: 35px;
+  color: #373F3F;
+  font-family: 'Lato', sans-serif;
+}
+.name{
+  padding-top: 80px;
+  font-size: 60px;
+  font-weight: 900;
+  color: #373F3F;
+  font-family: 'Lato', sans-serif;
+}
+.projects-title{
+  padding-top: 80px;
+}
+.card-container {
+  margin: 40px 80px;
+  padding: 40px 80px 80px 80px;
+  background-color: white;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  -moz-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+}
+.description{
+  font-weight: 900;
+  color: #000000;
+  text-transform: none;
+  letter-spacing: 1px;
+  padding-top: 65px;
+  font-size: 24px;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  color: #373F3F;
+}
+.carousel {
+  padding-top: 30px;
+}
+
+.project-name {
+  padding-top: 40px;
+  font-weight: 100;
+  font-size: 30px;
+  color: #373F3F;
+  letter-spacing: 10;
+  line-height: 40px;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+}
+.button {
+  width: 100%;
+  height: 48px;
+  text-align: center;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 3px 10px 3px rgba(0,0,0,0.06);
+  -moz-box-shadow: 0px 3px 10px 3px rgba(0,0,0,0.06);
+  box-shadow: 0px 3px 10px 3px rgba(0,0,0,0.06);
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.ui {
+  background-color: white;
+  color: #373F3F;
+  font-weight: 900;
+  border: 1px solid #373F3F
+}
+.ux {
+  background-color: white;
+  color: #373F3F;
+  font-weight: 900;
+  border: 1px solid #373F3F
+}
+.button:hover {
+  background-color: #373F3F;
+  color: white;
+}
+.medium {
+  padding-top: 20px;
+}
+.background-title {
+  padding-top: 80px;
+}
+
+.jobs-container {
+  padding-top: 44px;
+  padding-bottom: 44px;
+}
+.job-card {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  -moz-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+}
+.card-content {
+  text-align: left;
+  padding: 20px;
+}
+.date {
+  font-size: 16px;
+}
+.background-logo {
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  -moz-box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+  box-shadow: 0px 5px 12px 4px rgba(0,0,0,0.06);
+}
+.linked-in {
+  width: 300px;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+.linked-in:hover {
+  background-color: #373F3F;
+  color: white;
+}
+
+.linkedin-button {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.more-info {
+  padding-top: 40px;
+}
+.ideas {
+  padding-top: 80px;
+}
+
+.ideas-title {
+  display: block;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+.ideas-description {
+  padding-top: 20px;
+  text-align: center;
+  margin: 0 100px;
+
+}
+.col-sm {
+  padding-top: 20px;
+}
+.image-cheers {
+  padding-top: 20px;
+  text-align: center;
+}
+.contact-me {
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 80px;
+}
