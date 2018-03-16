@@ -206,3 +206,41 @@ p {
   text-align: center;
   padding-bottom: 80px;
 }
+.footer {
+
+  background-color: #373F3F;
+}
+.footer-text {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+.instagramicon {
+  text-align: right;
+  padding-bottom: 5px;
+}
+.linkedinicon {
+  text-align: center;
+  vertical-align:middle;
+  padding-bottom: 5px;
+}
+.mediumicon {
+  text-align: left;
+  padding-top: 5px;
+}
+
+.media-text {
+  padding-top: 40px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.media-icons {
+  padding-top: 20px;
+  margin-bottom: 80px;
+}
+.madein {
+  padding-top: 60px;
+}
